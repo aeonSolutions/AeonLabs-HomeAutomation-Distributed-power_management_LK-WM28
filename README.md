@@ -88,7 +88,8 @@ This smart distributed power management device can be installed and utilized off
 
 ## Parts Needed
 - Buy the [LK-WM28 Enclosure 130x89x31mm  ](https://s.click.aliexpress.com/e/_DCotQTN) on AliExpress
-  
+- buy the [Smart PCB electronics (assembled)](https://www.tindie.com/stores/aeonlabs/) o Tindie.com
+    
 <br>
 <br>
 
