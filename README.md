@@ -28,6 +28,7 @@ This smart distributed DC power management and charging device has the purpose o
 <p align="center">
    <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/media/LK-WM28_PCB_FRONT.jpg">
    <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/media/LK-WM28_PCB_BACK.jpg">
+   <img height="300PX" SRC="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/media/LK-WM28_ALIEXPRESS.jpg">
 </p>
 
 <p align="center">
@@ -86,8 +87,7 @@ This smart distributed power management device can be installed and utilized off
 <br>
 
 ## Parts Needed
-
-- [98x98x32mm ABS Box Junction Box LK-C60](https://s.click.aliexpress.com/e/_DEvl2cR)
+- Buy the [LK-WM28 Enclosure 130x89x31mm  ](https://s.click.aliexpress.com/e/_DCotQTN)
   
 <br>
 <br>
