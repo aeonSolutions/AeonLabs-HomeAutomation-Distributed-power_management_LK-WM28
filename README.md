@@ -25,6 +25,16 @@ Last update: 03-05-2024
 # Distributed power management LK-WM28
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets. Made to fit the LK-WM28 enclosure sold on Aliexpress. It is a wall-mount type of installation.
 
+<p align="center">
+   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/media/LK-WM28_PCB_FRONT.jpg">
+   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_management_LK-WM28/blob/main/media/LK-WM28_PCB_BACK.jpg">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
 
 ### Summary of the Hardware Capabilities
 - 3 USB-A for fast charging up to 30W
@@ -34,20 +44,18 @@ This smart distributed DC power management and charging device has the purpose o
 - With a 5.0V DC two-wire connector to power an indoor main DC line for all 5.0V devices and electronics (smartphones, tablets, or any other)
 - With individual power consumption metrics on all USB ports (voltage, current, and power )
 - With the detection of an empty/full "power wall" battery pack connected to one of the 3 USB-A ports
-- 1.47" LCD TFT display
-- extreme low power consumption when in sleep mode. Only ~320nA
 
-<p align="center">
-   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_front.png">
-   <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_back.png">
-</p>
+- Display
+  - 1.47" LCD TFT display
 
-<p align="center">
-<strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/">Interactive view of the PCB Layout</a> </strong> &nbsp;
-  <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
- <sup>Click to view the latest revision</sup>
-</p>
+- Power Consumption
+  - extreme low power consumption when in sleep mode. Only ~320nA
 
+- Firmware update via USB-C  
+  - for firmware updates/upgrades 
+  - installation of Custom firmware possible ( tunning) 
+  - for local troubleshooting of errors on the module and on the CANBUS network
+    
 You can read about this project on Hackster [here](https://www.hackster.io/mtpsilva/ultra-low-power-home-dc-electrical-system-4th-iteration-d8294a).
 
 ## Off the Grid usage (RV, Boats)
