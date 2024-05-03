@@ -13,7 +13,7 @@
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
-Last update: 04-12-2023
+Last update: 03-05-2024
 </p>
 <p align="right">
     partially sponsored by <br>
@@ -26,7 +26,7 @@ Last update: 04-12-2023
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets. Made to fit the LK-WM28 enclosure sold on Aliexpress. It is a wall-mount type of installation.
 
 
-**This revision features::**
+### Summary of the Hardware Capabilities
 - 3 USB-A for fast charging up to 30W
 - With 220V AC to DC converter and Power charging scheduler to allow charging only when the electricity price is lower (during the night) using machine learning algorithms.
 
@@ -40,6 +40,12 @@ This smart distributed DC power management and charging device has the purpose o
 <p align="center">
    <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_front.png">
    <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-Distributed-Power-Solutions-Smart-Distributed-DC-Power-Management/blob/main/media/pcb_back.png">
+</p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/wall_mount_power_management_LK-WM28/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
 </p>
 
 You can read about this project on Hackster [here](https://www.hackster.io/mtpsilva/ultra-low-power-home-dc-electrical-system-4th-iteration-d8294a).
