@@ -87,7 +87,7 @@ This smart distributed power management device can be installed and utilized off
 <br>
 
 ## Parts Needed
-- Buy the [LK-WM28 Enclosure 130x89x31mm  ](https://s.click.aliexpress.com/e/_DCotQTN)
+- Buy the [LK-WM28 Enclosure 130x89x31mm  ](https://s.click.aliexpress.com/e/_DCotQTN) on AliExpress
   
 <br>
 <br>
