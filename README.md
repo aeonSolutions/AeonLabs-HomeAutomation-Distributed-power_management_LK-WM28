@@ -22,6 +22,23 @@ Last update: 03-05-2024
     </a>
 </p>
 
+## This Hardware Electronics is Sponsorware 💰💰💰
+The optimized design files for each of the hardware electronics listed are only available to my sponsors on GitHub Sponsors.
+It features many PCB optimizations such as much more energy efficiency and much less EMI  on the boards. This means, for instance, much better hardware performance and lasting battery life. 
+
+Enjoy, and thanks for the support! ❤️
+
+Learn more about **Sponsorware** at [https://github.com/aeonSolutions/sponsorware](https://github.com/aeonSolutions/sponsorware) 💰.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
 # Distributed power management LK-WM28
 This smart distributed DC power management and charging device has the purpose of charging 5V DC battery walls and power packs from the main 220V AC line at home. The innovation of this power charging device is in the ability to schedule charging to specific times during the day and night according to the price of electricity change. It can be programmed using machine learning to connect to an electricity market data source and calculate the best time to schedule battery charging according to the price variations in the electricity markets. Made to fit the LK-WM28 enclosure sold on Aliexpress ( [Buy here](https://s.click.aliexpress.com/e/_DCotQTN) ). It is a wall-mount type of installation.
 
